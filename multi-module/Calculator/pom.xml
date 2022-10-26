@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>calculator</artifactId>
+    <artifactId>Calculator</artifactId>
     <packaging>jar</packaging>
 
     <name>calculator</name>
