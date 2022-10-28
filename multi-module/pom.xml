@@ -9,6 +9,7 @@
         <module>calculator</module>
         <module>test-common</module>
         <module>calculator-tests</module>
+        <module>test-app</module>
     </modules>
     <packaging>pom</packaging>
 
